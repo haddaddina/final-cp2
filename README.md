@@ -39,7 +39,7 @@ Looking at games such as Sims and BitLife to understand the cause and effect of 
 
 
  
-##Final Code
+## Final Code
 
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
